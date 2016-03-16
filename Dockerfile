@@ -1,4 +1,4 @@
-FROM ubuntu:12.4.1
+FROM ubuntu:latest
 MAINTAINER byteshiva <byteshiva@gmail.com>
 
 # Set locale to avoid apt-get warnings in OSX
